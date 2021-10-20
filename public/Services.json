@@ -1,0 +1,61 @@
+[
+    {
+        "_id": "614ff3efb4e25af2d1004de7",
+        "index": 0,
+        "isActive": true,
+        "Degree": " FCPS (Medicine), MRCP (UK), MD (Rheumatology)",
+        "doctor": "Associate Consultant- Rheumatology and Internal Medicine",
+        "picture": "1.jpg",
+        "name": "Dr. Farzana Shumy"
+    },
+    {
+        "_id": "61502fa732f324f53ac37744",
+        "index": 1,
+        "isActive": true,
+        "balance": 20,
+        "Degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
+        "doctor": " Consultant, Nephrology",
+        "picture": "2.jpg",
+        "name": " Prof. Dr. Shah Alam"
+    },
+    {
+        "_id": "61502fa7289a01b4ce7f00b8",
+        "index": 2,
+        "isActive": true,
+        "balance": 12,
+        "Degree": " MBBS, MSc in Nephrology (UK)",
+        "doctor": "Associate Consultant, Nephrology",
+        "picture": "3.png",
+        "name": "Prof. Dr. Shah Alam"
+    },
+    {
+        "_id": "61502fa739e825378dce6a3e",
+        "index": 3,
+        "isActive": true,
+        "balance": 15,
+        "Degree": " MBBS, USMLE, MRCP (UK)",
+        "doctor": "Consultant, Nephrology",
+        "picture": "4.jpg",
+        "name": "Dr. Md. Mazharul Islam"
+    },
+    {
+        "_id": "61502fa79d6cf2435d0c0ec6",
+        "index": 4,
+        "isActive": true,
+        "balance": 30,
+        "Degree": "MBBS, MD (Pediatrics), MD (Neonatology), Fellow Newborn Medicine (Canada), MPH(NSU)",
+        "doctor": "Senior Consultant, Pediatrics & Neonatology",
+        "picture": "5.png",
+        "name": "Dr. Md. Idris Ali"
+    },
+    {
+        "_id": "61502fa79d6cf2435d0c0ec6",
+        "index": 4,
+        "isActive": true,
+        "balance": 20,
+        "Degree": " Senior Consultant, Neonatology",
+        "doctor": "MBBS, MD (Pead), FCPS (Neonatology, Clinical Fellow (Neonatology), Singapore",
+        "picture": "6.jpg",
+        "name": "Prof. (Dr.) Ninan Chack"
+    }
+]
